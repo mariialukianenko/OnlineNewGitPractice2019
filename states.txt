@@ -6,3 +6,6 @@ New York
 Texas
 California
 Minnesota
+Ohio
+Arizona
+Kansas
